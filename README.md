@@ -1,9 +1,13 @@
-# aps1
+# APS 1
 
-use PHP Server and Live server
 
-after updating scss file, use the command below.
+## Getting Started
+* `npm install`
+* You can use [PHP Server](https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
 
-bash:
-  gulp sass
-  
+## Important
+* after updating scss file, use the command below.
+* `gulp sass`
+ 
+ 
+ 
