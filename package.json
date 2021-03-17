@@ -1,0 +1,31 @@
+{
+  "name": "aps1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KetchupBoost/aps1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KetchupBoost/aps1/issues"
+  },
+  "homepage": "https://github.com/KetchupBoost/aps1#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "font-awesome": "^4.7.0",
+    "fs": "0.0.1-security",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-util": "^3.0.8",
+    "jquery": "^1.12.4",
+    "node-sass": "^5.0.0",
+    "popper.js": "^1.16.1",
+    "scroll-out": "^2.2.12"
+  }
+}
